@@ -1,0 +1,8 @@
+{
+  "records" :
+  [
+    {"username":"samidha", "password":"samidha"},
+    {"username":"tejas", "password":"tejas"},
+    {"username":"vitrag", "password":"vitrag"}
+  ]
+}
